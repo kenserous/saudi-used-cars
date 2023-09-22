@@ -1,4 +1,4 @@
-# **Machine Learning Model based on Saudi Arabia Used Cars**
+# **Machine Learning on Saudi Arabia Used Cars**
 
 ## **Background**
 The data provided contains information on used cars being sold in Saudi Arabia. This dataset includes key details such as type of car, region where the car is offered for sale, gear type of car, mileage of car, pricing, among many others. The primary focus of this project is to create an accurate machine learning model, which can be used by the business to predict prices of used cars accurately, in order to maximise the business revenue. By utilizing a diverse set of machine learning models, including regression and ensemble techniques, the project aims to see how accurate an algorithm can get, while analysing its possible impacts on the business, whether positive or negative. This project encompassed data preprocessing, feature engineering, and model evaluation techniques.
